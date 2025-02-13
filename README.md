@@ -39,3 +39,8 @@ Run migration
 python manage.py migrate
 ```
 
+## admin
+create admin
+``` shell
+python manage.py createsuperuser
+```

@@ -10,8 +10,6 @@ __pycache__/
 *.sqlite3-journal
 .DS_Store
 Thumbs.db
-media/
-static/
 migrations/
 __init__.py
 settings/__init__.py
