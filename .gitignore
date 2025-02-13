@@ -1,0 +1,19 @@
+# Django specific files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.sqlite-journal
+*.sqlite3-journal
+.DS_Store
+Thumbs.db
+media/
+static/
+migrations/
+__init__.py
+settings/__init__.py
+manage.py
+.vscode
