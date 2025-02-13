@@ -25,5 +25,17 @@ cd $NAME_PROJECT
 python manage.py runserver
 ```
 
+## Database
 
+Make migration
+
+```shell
+python manage.py makemigrations
+```
+
+Run migration
+
+```shell
+python manage.py migrate
+```
 
